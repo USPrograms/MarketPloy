@@ -1,0 +1,20 @@
+Transistor Material Disappears,Technology,3,0.5
+The materials for transistors have gone missing, so tech companies are having a hard time building anything of value
+Drought,Farming,2,0.7
+The water is drying up and farming companies are having a real tough time
+Crazy War Begins,Defense,2,1.4
+Russia has declared war on you so all defense companies are having a fantastic time
+New Oil Struck,Oil,3,0.5
+They found enough oil to power the US for three years, so oil is extremely devalued
+New Medical Research Arrives,Hospital,2,1.7
+Your medical companies have found new and exciting ways to cure baldness, the worst thing on earth!
+Teleporting Accomplished,Technology,2,1.6
+They have figured out teleporting... goodbye Boulder, hello Hawaii
+New Fertilizer,Farming,3,1.2
+The plants now grow up to 2x faster, you can almost see that grass grow!
+Peace,Defense,2,0.4
+Defense companies are bored
+Oil Lost In Pipeline,Oil,2,0.7
+Guess that's what happens when you try to build a pipeline in a warzone
+Everyone Gets Healthy,Hospital,3,0.7
+They are all too healthy for treatments, oh well!

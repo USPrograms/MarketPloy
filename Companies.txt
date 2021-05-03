@@ -1,0 +1,5 @@
+Rand Corp,1000,1000,15,14,1.2,Farming
+LockHeed,800,3000,70,60,10,Defense
+Google,5000,5000,90,82,6,Technology
+Exxon,6000,1000,130,100,15,Oil
+CU HealthCare,5000,300,32,27,4,Hospital
